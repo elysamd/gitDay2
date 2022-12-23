@@ -12,5 +12,7 @@ public class HomePage {
 
     //ok
 
+    //footer
+
 
 }
